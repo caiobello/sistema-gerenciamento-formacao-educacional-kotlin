@@ -1,4 +1,4 @@
-# sistema-gerenciamento-formacao-educacional-kotlin
+# Sistema de gerenciamento de formacao educacional em Kotlin
 
 Este código em Kotlin é um exemplo de um sistema de gerenciamento de formação educacional. Ele permite a criação de formações com diferentes níveis de dificuldade e conteúdos educacionais, e a matrícula e desmatrícula de usuários nessas formações.
 
