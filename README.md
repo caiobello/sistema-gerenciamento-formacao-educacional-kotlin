@@ -13,3 +13,8 @@ A função matricular() da classe Formacao permite a matrícula de um usuário n
 Ao final do programa, são impressas as informações das formações, incluindo o número de usuários inscritos em cada uma delas.
 
 O código está bem organizado e utiliza recursos da linguagem Kotlin, como data classes e listas mutáveis, para simplificar a implementação. Ele também inclui comentários explicativos para ajudar na compreensão do código.
+
+
+#
+
+## Dev. Caio Bello
